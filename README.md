@@ -1,7 +1,7 @@
 # german-hate-speech-detection
 Experimental setup for a German hate speech detection accompanying my bachelor thesis on this topic.
 
-##Features
+## Features
 * fine-tune and test BERT models on a dataset
 * fine-tune and test T5 models on a dataset
 * test already fine-tuned BERT models on dataset
