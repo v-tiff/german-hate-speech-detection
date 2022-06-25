@@ -16,4 +16,4 @@ Dataset and Models can be easily interchanged to the personal needs.
 * [Weights&Biases](https://docs.wandb.ai/?_gl=1*1kuhec1*_ga*ODkxMzMwMjcwLjE2NTE0MTg2NjU.*_ga_JH1SJHJQXJ*MTY1NjE0NDIzNS41OS4xLjE2NTYxNDQyNDkuNDY)
 * [Hugging Face](https://huggingface.co/models)
 * [Google Colab](https://colab.research.google.com/)
-* [nlpaug]((https://github.com/makcedward/nlpaug)
+* [nlpaug](https://github.com/makcedward/nlpaug)
