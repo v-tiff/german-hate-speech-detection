@@ -6,7 +6,7 @@ Experimental setup for a German hate speech detection accompanying my bachelor t
 * fine-tune and test T5 models on a dataset
 * test already fine-tuned BERT models on dataset
 * test already fine-tuned T5 models on dataset
-* data augmentation methdos
+* data augmentation methods
 
 Dataset and Models can be easily interchanged to the personal needs.
 
