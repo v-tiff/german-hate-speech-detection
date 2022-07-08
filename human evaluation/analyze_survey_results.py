@@ -4,7 +4,7 @@ from sklearn import metrics
 
 from src.utils import read_survey_CSV
 
-SURVEY_CSV_PATH = "../../survey_results.csv"
+SURVEY_CSV_PATH = "./survey_results.csv"
 
 if __name__ == '__main__':
     df = pd.read_csv(SURVEY_CSV_PATH, sep=",")
@@ -33,4 +33,4 @@ if __name__ == '__main__':
         survey_results_df = pd.concat([survey_results_df, single_result_row],
                                       ignore_index=True)
 
-    survey_results_df.to_csv('../../survey_metrics.csv')
+    survey_results_df.to_csv('./survey_metrics.csv')
